@@ -14,3 +14,14 @@
   text-decoration: none;
   font-family: 'Source Sans Pro', sans-serif;
 }
+.container{
+  width: 1024px;
+  margin: 30px auto;
+  display:flex;
+  flex-direction: column;
+}
+
+.row{
+  display:flex;
+  flex-direction: row;
+}
