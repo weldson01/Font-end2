@@ -3,6 +3,7 @@
 /* components */
 @import "./header.css";
 @import "./buttons.css";
+@import "./main.css";
 /*reset Css */
 *{
   margin: 0;
@@ -13,7 +14,9 @@
   vertical-align: baseline;
   text-decoration: none;
   font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;  
 }
+
 .container{
   width: 1024px;
   margin: 30px auto;
